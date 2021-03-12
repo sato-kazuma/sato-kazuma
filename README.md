@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sato-kazuma
 - 👀 I’m interested in everything
 - 🌱 I’m currently learning java,sql,linux
-- 💞️ I studied c,assembly,list,tree and recorsive methods
+- 💞️ I studied c,assembly,list,tree and recursive methods
 - 📫 How to reach me : lasalviafra@gmail.com
 
 <!---
