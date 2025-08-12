@@ -1,5 +1,5 @@
-l’ma student with a background in Computer Engineering. 
-l’m specialized in Java programming, with some knowledge in C, PY, SQL, IOT, Cybersecurity and Internet structure.
+Hello, I am Francesco Lasalvia, a student with a background in Computer Engineering. 
+l’m specialized in Java programming, with some knowledge in C, C#, PY, SQL, IOT, Cybersecurity and Internet structure.
 
 I'm ready to learn new things, such as Al. 
 l’m curious, friendly and I love working in group settings, even as a leader.
